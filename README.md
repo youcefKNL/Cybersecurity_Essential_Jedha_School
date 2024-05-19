@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="URL_DE_VOTRE_IMAGE" alt="Description de l'image" style="width: 100%;">
+  <img src="https://github.com/youcefKNL/Cybersecurity_Essential_Jedha_School/blob/main/jedha.jpeg?raw=true" alt="Description de l'image" style="width: 100%;">
 </p>
 
 # Projet de Test de Pénétration
