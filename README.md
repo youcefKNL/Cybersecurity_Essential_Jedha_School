@@ -2,9 +2,9 @@
   <img src="https://github.com/youcefKNL/Cybersecurity_Essential_Jedha_School/blob/main/jedha.jpeg?raw=true" alt="Description de l'image" style="width: 100%;">
 </p>
 
-<p align="center">
+
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-knl/)
-</p>
+
 
 <p align="center">
   <a href="https://www.jedha.co/formations/formation-pentester">Visitez <img src="https://github.com/youcefKNL/Cybersecurity_Essential_Jedha_School/blob/main/logojedha.svg" alt="Jedha" width="150px" max-width="150px"></a>
