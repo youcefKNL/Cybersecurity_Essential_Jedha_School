@@ -4,8 +4,12 @@
 
 <p align="center">
   [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youcef-knl/)
-  <a href="https://www.jedha.co/formations/formation-pentester"><img src="https://github.com/youcefKNL/Cybersecurity_Essential_Jedha_School/blob/main/logojedha.svg" alt="Jedha"></a>
 </p>
+
+<p align="center">
+  <a href="https://www.jedha.co/formations/formation-pentester">Visitez <img src="https://github.com/youcefKNL/Cybersecurity_Essential_Jedha_School/blob/main/logojedha.svg" alt="Jedha" width="150px" max-width="150px"></a>
+</p>
+
 
 # Projet de Test de Pénétration
 
